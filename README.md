@@ -24,7 +24,7 @@ The notebook downloads the files automatically if they are not present in the wo
 1. Data loading into NumPy matrices `male` and `female`
 2. Histograms of male and female weight (shared x-axis limits)
 3. Box plot comparing male and female weight
-4. Numerical summaries: location, dispersion and shape
+4. Numerical summaries: location, dispersion, and shape
 5. Body mass index (BMI) for females and standardisation (z-scores) into `zfemale`
 6. Scatterplot matrix (pairplot) with Pearson and Spearman correlations
 7. Waist-to-height ratio (WHtR) and waist-to-hip ratio (WHR) for both sexes
@@ -36,7 +36,7 @@ The notebook downloads the files automatically if they are not present in the wo
 ## Key Findings
 
 - Body weight is right-skewed in both sexes. Males are heavier on average (about 88.4 kg vs. 77.4 kg), while the absolute spread is almost identical.
-- In females, weight, waist circumference, hip circumference and BMI are strongly correlated (Pearson r of about 0.90 to 0.95), whereas BMI is practically uncorrelated with height (r of about 0.03).
+- In females, weight, waist circumference, hip circumference, and BMI are strongly correlated (Pearson r of about 0.90 to 0.95), whereas BMI is practically uncorrelated with height (r of about 0.03).
 - Females show a higher WHtR, while males show a higher WHR, so the choice of index affects conclusions about sex differences.
 - The most extreme BMI values are driven by body mass and girth, not by height.
 
@@ -76,7 +76,7 @@ Then select **Run → Run All Cells**. Alternatively, upload the notebook to Goo
 
 ## Author
 
-**Your Name**
+**Anurag Anand**
 M.Sc. Information Technology
 
 ## Acknowledgements
